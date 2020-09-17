@@ -2,7 +2,7 @@
 
 # Index:
 * ## [Games](#games)
-* ## [One page application](#one-page-application)
+* ## [One page application](https://github.com/Nada-TB/projects-list#one-page-application)
 * ## [Application public api](#application-public-api)
 * ## [Full stack application](#full-stack-application)
 * ## [Mini-projects](#mini-projects)
