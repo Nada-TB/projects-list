@@ -1,7 +1,7 @@
 # Projects list :
 
 # Index:
-* ## [Games](#games)
+* ## [Games](https://github.com/Nada-TB/projects-list#games)
 * ## [One page application](https://github.com/Nada-TB/projects-list#one-page-application)
 * ## [Application public api](#application-public-api)
 * ## [Full stack application](#full-stack-application)
