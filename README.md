@@ -2,7 +2,7 @@
 
 # Index:
 
-* ### [Games](#games)
+* ### [Games](#games-)
 * ### [One page application](#one-page-application)
 * ### [Application public api](#application-public-api)
 * ### [Full stack application](#full-stack-application)
