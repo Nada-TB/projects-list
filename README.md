@@ -2,15 +2,15 @@
 
 # Index:
 
-* ### [Games](#games)
-* ### [One page application](#one-page-application)
-* ### [Application public api](#application-public-api)
-* ### [Full stack application](#full-stack-application)
-* ### [Mini-projects](#mini-projects)
-* ### [Animations](#animations)
-* ### [React applications](#react-applications)
+* ### [Games](-#games)
+* ### [One page application](-#one-page-application)
+* ### [Application public api](-#application-public-api)
+* ### [Full stack application](-#full-stack-application)
+* ### [Mini-projects](-#mini-projects)
+* ### [Animations](-#animations)
+* ### [React applications](-#react-applications)
 
-# <a id="#games"></a> Game :
+ # Games :
 
 Application | Description | frontend technologies | backend technologies
 ------------|-------------|----------------------- |---------------------
@@ -49,7 +49,7 @@ Application | Description | frontend technologies | backend technologies
 https://codepen.io/Nada_T/pen/PoPpWRe|
 https://codepen.io/Nada_T/pen/PoPpMZy|
 
-# <a id="#react-applications"></a> React applications :
+#  React applications :
 Application | Description | frontend technologies | backend technologies
 ------------|-------------|----------------------- |---------------------
 https://nada-tb.github.io/mutlti-pages-react-website/#/|
