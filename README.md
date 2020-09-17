@@ -8,7 +8,7 @@
 * ### [Full stack application](#full-stack-application)
 * ### [Mini-projects](#mini-projects)
 * ### [Animations](#animations)
-* ### [React applications](#react-applications)
+* ### [React applications](#react-applications-)
 
  # Games :
 
