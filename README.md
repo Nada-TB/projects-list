@@ -10,7 +10,7 @@
 * ### [Animations](#animations)
 * ### [React applications](#react-applications)
 
-# Game :
+# <a id="#games"></a> Game :
 
 Application | Description | frontend technologies | backend technologies
 ------------|-------------|----------------------- |---------------------
@@ -49,7 +49,7 @@ Application | Description | frontend technologies | backend technologies
 https://codepen.io/Nada_T/pen/PoPpWRe|
 https://codepen.io/Nada_T/pen/PoPpMZy|
 
-# React applications :
+# <a id="#react-applications"></a> React applications :
 Application | Description | frontend technologies | backend technologies
 ------------|-------------|----------------------- |---------------------
 https://nada-tb.github.io/mutlti-pages-react-website/#/|
