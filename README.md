@@ -6,7 +6,7 @@
 * ### [Games](#games-)
 * ### [One page application](#one-page-application-)
 * ### [Application public api](#application-public-api-)
-* ### [Mini-projects](#mini-projects-)
+* ### [School mini-projects](#school-mini-projects-)
 * ### [Animations](#animations-)
 * ### [React applications](#react-applications-)
 
@@ -39,7 +39,7 @@ Application | Description | frontend technologies | backend technologies
 ------------|-------------|----------------------- |---------------------
 https://weather-api-exemple.herokuapp.com/|weather application using OpenWeatherMap API|HTML/CSS/JS ES6/AJAX|PHP
 
-# Mini-projects :
+# School mini-projects :
 Application | Description | frontend technologies | backend technologies
 ------------|-------------|----------------------- |---------------------
 https://nada-tb.github.io/build_counter_vanillaJS/|
