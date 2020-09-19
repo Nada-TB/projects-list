@@ -34,8 +34,8 @@ Application | Description | repository| frontend technologies | backend technolo
 https://nada-tb.github.io/template_social/|template_social|https://github.com/Nada-TB/template_social|HTML CSS JS|
 https://nada-tb.github.io/numeric-calculator/|numeric-calculator| https://github.com/Nada-TB/numeric-calculator|HTML/CSS/JS|
 https://nada-tb.github.io/shoppingList/|Shopping List french version| https://github.com/Nada-TB/shoppingList|JS ES6/HTML/CSS/localStorage|
-https://nada-tb.github.io/CalculatriceTTC/|https://github.com/Nada-TB/CalculatriceTTC| Sales tax calculator (french version)|HTML/CSS JS|
-https://nada-tb.github.io/slider-vanillaJS/|https://github.com/Nada-TB/slider-vanillaJS |Slider|HTML/CSS JS
+https://nada-tb.github.io/CalculatriceTTC/| Sales tax calculator (french version)|https://github.com/Nada-TB/CalculatriceTTC|HTML/CSS JS|
+https://nada-tb.github.io/slider-vanillaJS/||Slider|https://github.com/Nada-TB/slider-vanillaJS HTML/CSS JS
 
 
 # Application public api :
