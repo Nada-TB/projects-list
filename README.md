@@ -32,8 +32,8 @@ https://nada-tb.github.io/paper_scissors_rock_game/ |paper scissors rock game | 
 Application | Description | repository| frontend technologies | backend technologies
 ------------|-------------|------------|----------- |---------------------
 https://nada-tb.github.io/template_social/|template_social
-https://nada-tb.github.io/numeric-calculator/|numeric-calculator|HTML/CSS/JS|
-https://nada-tb.github.io/shoppingList/|Shopping List french version|JS ES6/HTML/CSS/localStorage|
+https://nada-tb.github.io/numeric-calculator/| |numeric-calculator|HTML/CSS/JS|
+https://nada-tb.github.io/shoppingList/|Shopping List french version| |JS ES6/HTML/CSS/localStorage|
 https://nada-tb.github.io/CalculatriceTTC/|
 https://nada-tb.github.io/Carrousel-exercice-formation-Web-DEV-3wa/|
 
