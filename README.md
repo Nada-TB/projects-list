@@ -16,8 +16,8 @@
 # Full stack applications :
 Application | Description | repository| frontend technologies | backend technologies
 ------------|-------------|------------|----------- |---------------------
-https://www.bpdiarys.com/| |https://github.com/Nada-TB/bpdiarys|
-https://photographer-portfolio.herokuapp.com/|
+https://www.bpdiarys.com/| Graduation project |https://github.com/Nada-TB/bpdiarys|HTML/CSS/JS/AJAX|PHP MySQL MVC
+https://photographer-portfolio.herokuapp.com/|photographer portfolio template w3c design|https://github.com/Nada-TB/photographer_portfolio|HTML/CSS/JS/AJAX|PHP MySQL OOP
 https://github.com/Nada-TB/OOP_form |
 
  # Games :
