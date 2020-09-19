@@ -23,9 +23,9 @@ https://github.com/Nada-TB/OOP_form |
  # Games :
 Application  | Description | repository| frontend technologies | backend technologies
 ------------|-------------|-------------|---------- |---------------------
-https://super-lottery-game.herokuapp.com/index.html| Lottery game | HTML/CSS/JS/AJAX |PHP
-https://nada-tb.github.io/buildYourSuperWallGame/|Super Wall Game | JS/ES6/HTML/CSS |
-https://nada-tb.github.io/paper_scissors_rock_game/ |paper scissors rock game | JS/ES6/HTML/CSS/OOP
+https://super-lottery-game.herokuapp.com/index.html| Lottery game | |HTML/CSS/JS/AJAX |PHP
+https://nada-tb.github.io/buildYourSuperWallGame/|Super Wall Game | |JS/ES6/HTML/CSS |
+https://nada-tb.github.io/paper_scissors_rock_game/ |paper scissors rock game | |JS/ES6/HTML/CSS/OOP
 
 
 # One page application :
@@ -41,7 +41,7 @@ https://nada-tb.github.io/Carrousel-exercice-formation-Web-DEV-3wa/|
 # Application public api :
 Application | Description | repository| frontend technologies | backend technologies
 ------------|-------------|------------|----------- |---------------------
-https://weather-api-exemple.herokuapp.com/|weather application using OpenWeatherMap API|HTML/CSS/JS ES6/AJAX|PHP
+https://weather-api-exemple.herokuapp.com/|weather application using OpenWeatherMap API||HTML/CSS/JS ES6/AJAX|PHP
 
 #  React applications :
 Application | Description | repository| frontend technologies | backend technologies
