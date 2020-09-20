@@ -58,9 +58,9 @@ https://codepen.io/Nada_T/pen/PoPpMZy|
 # School mini-projects :
 Application | Description | repository| frontend technologies | backend technologies
 ------------|-------------|------------|----------- |---------------------
-https://ajax-exemple.herokuapp.com/||https://github.com/Nada-TB/ajax-example-page| CSS HTML JS Ajax|PHP
+https://ajax-exemple.herokuapp.com/|multichoice content user interface |https://github.com/Nada-TB/ajax-example-page| CSS HTML JS Ajax|PHP
 https://nada-tb.github.io/build_counter_vanillaJS/| Rocket Countdown Timer |https://github.com/Nada-TB/build_counter_vanillaJS| HTML CSS JS|
-https://nada-tb.github.io/selected_photos/||https://github.com/Nada-TB/selected_photos|HTML CSS JS|
+https://nada-tb.github.io/selected_photos/|Counter of the selected photos|https://github.com/Nada-TB/selected_photos|HTML CSS JS|
 
 
 
