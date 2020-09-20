@@ -47,7 +47,7 @@ https://weather-api-exemple.herokuapp.com/|weather application using OpenWeather
 Application | Description | repository| frontend technologies | backend technologies
 ------------|-------------|------------|----------- |---------------------
 https://nada-tb.github.io/mutlti-pages-react-website/#/| multi page website template|https://github.com/Nada-TB/mutlti-pages-react-website| react.js|
-https://nada-tb.github.io/random-contacts-list/|
+https://nada-tb.github.io/random-contacts-list/|one page app using API|https://github.com/Nada-TB/random-contacts-list|react.js
 
 # Animations :
 Application | Description | repository| frontend technologies | backend technologies
