@@ -52,9 +52,11 @@ https://nada-tb.github.io/random-contacts-list/|one page app using API|https://g
 # Animations :
 Application | Description | repository| frontend technologies | backend technologies
 ------------|-------------|------------|----------- |---------------------
-https://codepen.io/Nada_T/pen/PoPpWRe|
-https://codepen.io/Nada_T/pen/PoPpMZy|
-
+https://codepen.io/Nada_T/pen/PoPpWRe|a lego man |https://github.com/Nada-TB/walking_Man| CSS/ HTML/JS |
+https://codepen.io/Nada_T/pen/PoPpMZy| a realtime clock |https://github.com/Nada-TB/real_time_clock| CSS/HTML/JS |
+https://codepen.io/Nada_T/pen/LYNyLeoy | create element around on click | |CSS/JS/HTML|
+https://codepen.io/Nada_T/pen/WNQdQeq | Draw a border | | CSS/SVG |
+https://codepen.io/Nada_T/details/gOaWGrV| audio animation | | CSS/ HTML/JS|
 # School mini-projects :
 Application | Description | repository| frontend technologies | backend technologies
 ------------|-------------|------------|----------- |---------------------
