@@ -17,7 +17,7 @@
 Application | Description | repository| frontend technologies | backend technologies
 ------------|-------------|------------|----------- |---------------------
 https://github.com/Nada-TB/bees-gratitude |application with Authentication to keep a daily journal of gratitudes|https://bees-gratitude.herokuapp.com/|HTML/JS ES6 modules/ classes/AJAX|PHP/PostgreSQL/OOP/API/MVC
-https://www.bpdiarys.com/| Graduation project dynamic website |https://github.com/Nada-TB/bpdiarys|HTML/CSS/JS/AJAX|PHP MySQL MVC
+https://www.bpdiarys.com/| Graduation project upgrade version of a blog |https://github.com/Nada-TB/bpdiarys|HTML/CSS/JS/AJAX|PHP MySQL MVC
 https://photographer-portfolio.herokuapp.com/|photographer portfolio template w3c design|https://github.com/Nada-TB/photographer_portfolio|HTML/CSS/JS/AJAX|PHP MySQL OOP
 
 
