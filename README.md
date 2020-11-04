@@ -42,7 +42,7 @@ https://nada-tb.github.io/slider-vanillaJS/|Slider|https://github.com/Nada-TB/sl
 # Application public api :
 Application | Description | repository| frontend technologies | backend technologies
 ------------|-------------|------------|----------- |---------------------
-https://weather-api-exemple.herokuapp.com/|weather application using OpenWeatherMap API|https://github.com/Nada-TB/weather_api|HTML/CSS/JS ES6/AJAX|PHP
+https://weather-api-example.herokuapp.com/|weather application using OpenWeatherMap API|https://github.com/Nada-TB/weather_api|HTML/CSS/JS ES6/AJAX|PHP
 
 #  React applications :
 Application | Description | repository| frontend technologies | backend technologies
