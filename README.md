@@ -55,7 +55,7 @@ Application | Description | repository| frontend technologies | backend technolo
 ------------|-------------|------------|----------- |---------------------
 https://nada-tb.github.io/walking_Man/|a lego man |https://github.com/Nada-TB/walking_Man| CSS/ HTML/JS |
 https://nada-tb.github.io/real_time_clock/| a realtime clock |https://github.com/Nada-TB/real_time_clock| CSS/HTML/JS |
-https://codepen.io/Nada_T/pen/LYNyLeoy | create element around on click | |CSS/JS/HTML|
+https://codepen.io/Nada_T/full/LYNyLeo | create element around on click | |CSS/JS/HTML|
 https://codepen.io/Nada_T/pen/WNQdQeq | Draw a border | | CSS/SVG |
 https://codepen.io/Nada_T/details/gOaWGrV| audio animation | | CSS/ HTML/JS|
 
